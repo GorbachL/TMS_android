@@ -4,14 +4,13 @@ import java.util.Scanner;
 
 public class Task3 {
 
-    public static void main(String[] args) {
-
-        System.out.println("Task 3");
-
-        /*
+    /*
         Пользователь задает целое число, больше или равно 100 (например, 3801).
         Определить третью цифру справа в этом числе (в данном случае 8)
-         */
+    */
+    public static void determineThirdDigitFromRight() {
+
+        System.out.println("Task 3");
 
         try {
             Scanner scanner = new Scanner(System.in);

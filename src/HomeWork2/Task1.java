@@ -4,13 +4,13 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Task1 {
-    public static void main(String[] args) {
+
+    /*
+        Определить, четное ли данное число
+    */
+    public static void validateEvenNumber() {
 
         System.out.println("Таск 1");
-
-        /*
-        Определить, четное ли данное число
-         */
 
         try {
             Scanner scanner = new Scanner(System.in);
