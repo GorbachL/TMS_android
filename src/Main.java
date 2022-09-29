@@ -2,6 +2,7 @@ import HomeWork2.Task1;
 import HomeWork2.Task2;
 import HomeWork2.Task3;
 import HomeWork3.Task4;
+import HomeWork3.Task5;
 
 import java.util.Scanner;
 
@@ -25,6 +26,9 @@ public class Main {
                     break;
                 case 4:
                     Task4.Weather();
+                    break;
+                case 5:
+                    Task5.RatingChange();
                     break;
                 default:
                     System.out.println("Not ready yet..");
