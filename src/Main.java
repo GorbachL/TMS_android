@@ -1,8 +1,8 @@
-import HomeWork2.Task1;
-import HomeWork2.Task2;
-import HomeWork2.Task3;
-import HomeWork3.Task4;
-import HomeWork3.Task5;
+import homeWork2.Task1;
+import homeWork2.Task2;
+import homeWork2.Task3;
+import homeWork3.Task4;
+import homeWork3.Task5;
 
 import java.util.Scanner;
 
